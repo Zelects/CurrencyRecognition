@@ -1,0 +1,65 @@
+# -------------------
+# Python cache files
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------
+# Virtual environments
+# -------------------
+venv/
+env/
+.venv/
+
+# -------------------
+# Jupyter notebook checkpoints
+# -------------------
+.ipynb_checkpoints/
+
+# -------------------
+# IDE / Editor settings
+# -------------------
+.vscode/
+.idea/
+
+# -------------------
+# Operating system files
+# -------------------
+.DS_Store
+Thumbs.db
+
+# -------------------
+# ML / CV project files
+# -------------------
+# Do NOT upload dataset to GitHub
+dataset/
+data/
+
+# Do NOT upload trained model weights
+models/*.pt
+models/*.pth
+models/*.h5
+models/*.keras
+models/*.onnx
+
+# -------------------
+# Logs & temp output
+# -------------------
+*.log
+*.tmp
+wandb/
+runs/
+
+# -------------------
+# Streamlit cache
+# -------------------
+.streamlit/
+
+# -------------------
+# Python build artifacts
+# -------------------
+build/
+dist/
+*.egg-info/
