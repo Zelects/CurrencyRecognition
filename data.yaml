@@ -1,0 +1,12 @@
+path: ./dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: one
+  1: five
+  2: ten
+  3: twenty
+  4: fifty
+  5: hundred
