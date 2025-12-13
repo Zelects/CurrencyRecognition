@@ -1,12 +1,10 @@
-path: ./dataset
-
-train: images/train
-val: images/val
+train: /Users/jackzheng/CurrencyDetection1/yolo_dataset/images/train
+val: /Users/jackzheng/CurrencyDetection1/yolo_dataset/images/val
 
 names:
-  0: one
-  1: five
-  2: ten
-  3: twenty
-  4: fifty
-  5: hundred
+  0: 1 Dollar
+  1: 5 Dollar
+  2: 10 Dollar
+  3: 20 Dollar
+  4: 50 Dollar
+  5: 100 Dollar

@@ -6,8 +6,8 @@ from shutil import copyfile
 ANNOTATIONS_DIR = "dataset_raw/Annotations"
 IMAGES_DIR = "dataset_raw/JPEGImages"
 
-YOLO_IMAGES = "yolo_dataset/images/train"
-YOLO_LABELS = "yolo_dataset/labels/train"
+YOLO_IMAGES = "yolo_dataset/images/val"
+YOLO_LABELS = "yolo_dataset/labels/val"
 
 # Create folders if missing
 os.makedirs(YOLO_IMAGES, exist_ok=True)

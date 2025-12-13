@@ -86,7 +86,7 @@ for xml_file in xml_files:
         lines.append(f"{cls} {x_center} {y_center} {width} {height}\n")
 
     if not valid:
-        continue  # skip images with only coins
+        continue # skip images with only coins
 
     # write label file
     with open(label_out, "w") as f:
