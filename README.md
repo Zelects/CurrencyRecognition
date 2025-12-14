@@ -3,6 +3,8 @@ Jack Zheng
 Ayden Rodriguez
 Darshan Neupane
 
+### Link to the google slides presentation
+https://docs.google.com/presentation/d/1DG1HzDLkBzWNbqE8ndEDA3gpULOyDhGQQpASLTuVhmw/edit?slide=id.g3ae554e62a2_0_1353#slide=id.g3ae554e62a2_0_1353
 
 # Currency Detection YOLO Model
 This project detects USD bills ($1, $5, $10, $20, $50, $100) using a trained YOLO model.
