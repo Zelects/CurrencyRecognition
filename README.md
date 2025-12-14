@@ -3,7 +3,7 @@ Jack Zheng
 Ayden Rodriguez
 Darshan Neupane
 
-### Link to the google slides presentation
+### Link to the NEW google slides presentation
 https://docs.google.com/presentation/d/1DG1HzDLkBzWNbqE8ndEDA3gpULOyDhGQQpASLTuVhmw/edit?slide=id.g3ae554e62a2_0_1353#slide=id.g3ae554e62a2_0_1353
 
 # Currency Detection YOLO Model
